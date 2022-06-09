@@ -1,0 +1,4 @@
+export enum PAGINATION_STEP {
+    PREVIOUS_STEP = "PREVIOUS_STEP",
+    NEXT_STEP = "NEXT_STEP"
+}
